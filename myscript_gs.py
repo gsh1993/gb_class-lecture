@@ -1,3 +1,7 @@
+"""
+Module for square root of a number
+"""
+
 def sqrt2(x):
 	s=1.0
 	kmax=100
